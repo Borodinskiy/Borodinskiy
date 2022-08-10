@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Borodinskiy
-- 👀 I’m interested in it (foreIT?! ok)
-- 🌱 I’m currently learning fuckin default class (no specific)
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: this site?
+Welcome to my projects storage, where i planning to cloudsaving my bullshit.
+If you want to use my repositories, i strongly recommend to use repo from other better developers, because here i keeping my code, who not optimized for other people eyes
 
 <!---
 Borodinskiy/Borodinskiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
